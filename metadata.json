@@ -1,0 +1,5 @@
+{
+  "name": "AI 패션 가상 피팅",
+  "description": "인물 사진과 옷 사진을 업로드하여 가상으로 입어보세요. 이 애플리케이션은 Gemini의 이미지 편집 기능을 사용하여 사실적인 피팅 이미지를 생성합니다.",
+  "requestFramePermissions": []
+}
